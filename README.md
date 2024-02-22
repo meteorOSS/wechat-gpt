@@ -13,8 +13,11 @@
 ### 指令
 
 /gpt model [模型] 切换模型
+
 /gpt clear 清除对话记录 (单个用户)
+
 /gpt baseURL [url] 切换接口地址
+
 /gpt key [key] 重置令牌
 
 ### 配置文件
