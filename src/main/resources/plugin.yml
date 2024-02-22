@@ -1,0 +1,7 @@
+name: ChatGpt
+version: 1.0
+main: com.meteor.chatgpt.Claptrap
+authors:
+  - 'meteor'
+commands:
+  - 'gpt'
